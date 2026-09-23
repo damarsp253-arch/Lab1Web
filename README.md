@@ -17,3 +17,5 @@ Lab1Web/
 ├── images/  
 │   └── profil.jpg  
 └── README.md  
+# Langkah-Langkah Praktikum  
+Pada tahap awal ini, kita menyiapkan teks editor (seperti Visual Studio Code), membuat folder kerja bernama praktikum-1-html-dasar, dan membuat file index.html dengan kerangka struktur dokumen HTML5 standar yang mencakup deklarasi <!DOCTYPE html>, tag <html>, <head>, <title>, dan <body>.  
