@@ -83,13 +83,13 @@ Membuat daftar item menggunakan *unordered list* (`<ul>`) untuk daftar tanpa nom
 Menambahkan catatan atau dokumentasi internal dalam kode HTML menggunakan tag komentar `<!-- Komentar -->` agar diabaikan oleh browser dan tidak tampil di halaman web.
 
 <img width="327" height="205" alt="Cuplikan layar 2026-09-23 130530" src="https://github.com/user-attachments/assets/a180b7ef-a7a4-4098-8855-a73acc039540" />
-<img width="1062" height="747" alt="Cuplikan layar 2026-09-23 133958" src="https://github.com/user-attachments/assets/9d02d349-f3f2-44a4-a9c3-296faf4c8095" />
+<img width="1371" height="1062" alt="Cuplikan layar 2026-09-23 200611" src="https://github.com/user-attachments/assets/9bb38015-d1a4-4cd5-88b2-9550f6f07023" />
 
 ---
 
 ### 10. Menggabungkan Semua Elemen
 Menggabungkan seluruh elemen HTML yang telah dipelajari sebelumnya—mulai dari struktur dasar, navigasi, heading, paragraf, gambar, pemformatan teks, list, hingga komentar—menjadi satu halaman web profil mahasiswa yang utuh.  
 
-<img width="1068" height="743" alt="Cuplikan layar 2026-09-23 134125" src="https://github.com/user-attachments/assets/0f3da82a-8492-45c6-8627-84d9e9532b9f" />
-<img width="1920" height="1020" alt="Cuplikan layar 2026-09-23 141047" src="https://github.com/user-attachments/assets/8f5caf92-74f8-4125-880c-8d5f3513ea27" />
-<img src="images/Screenshot/hasil9.png">
+<img width="1062" height="747" alt="Cuplikan layar 2026-09-23 133958" src="https://github.com/user-attachments/assets/1f3690bc-d25a-4b6b-98f2-9d4d8498133a" />
+<img width="1068" height="743" alt="Cuplikan layar 2026-09-23 134125" src="https://github.com/user-attachments/assets/7a925b81-d64b-494a-81eb-269b94c1706f" />
+<img width="1920" height="1020" alt="Cuplikan layar 2026-09-23 141047" src="https://github.com/user-attachments/assets/bbf1b86d-67ec-4abe-8460-10d2dcb4e52c" />
