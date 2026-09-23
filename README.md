@@ -11,7 +11,7 @@ dan ditambahkan tag <title> untuk
 memberikan judul pada halaman web.  
 Code:  
 # Struktur Folder Proyek  
-Lab1Web/
+Lab1Web/  
 ├── index.html  
 ├── halaman2.html  
 ├── images/  
