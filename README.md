@@ -22,6 +22,28 @@ Pada tahap awal ini, kita menyiapkan teks editor (seperti Visual Studio Code), m
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="405" height="256" alt="Cuplikan layar 2026-09-23 113133" src="https://github.com/user-attachments/assets/900db772-664b-48c7-907f-7b861fffbd9c" />  
 <img width="1326" height="1017" alt="Cuplikan layar 2026-09-23 113310" src="https://github.com/user-attachments/assets/f0ffa933-d3c6-4e32-8293-edec8527ddec" />  
 **2. Membuat Paragraf**  
