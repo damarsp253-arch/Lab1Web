@@ -12,8 +12,8 @@ memberikan judul pada halaman web.
 Code:  
 # Struktur Folder Proyek  
 Lab1Web/
-├── index.html
-├── halaman2.html
-├── images/
-│   └── profil.jpg
+├── index.html  
+├── halaman2.html  
+├── images/  
+│   └── profil.jpg  
 └── README.md  
