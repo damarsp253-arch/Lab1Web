@@ -9,3 +9,11 @@ Mata  kuliah  :  Pemrograman  Web
 Pada tahap ini dibuat struktur dasar HTML  
 dan ditambahkan tag <title> untuk  
 memberikan judul pada halaman web.  
+Code:  
+# Struktur Folder Proyek  
+Lab1Web/
+├── index.html
+├── halaman2.html
+├── images/
+│   └── profil.jpg
+└── README.md  
